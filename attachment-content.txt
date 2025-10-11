@@ -1,0 +1,30 @@
+Create a "Settings" page for the website with the following features:
+
+1. Profile Settings:
+   - Profile picture upload (with preview).
+   - Name, email, phone number, and password update fields.
+   - Option to add/edit address.
+
+2. Preferences:
+   - Theme toggle (Light/Dark mode).
+   - Notification settings (email, SMS, push) with toggle switches.
+   - Language selection dropdown (English, Hindi, Bengali).
+
+3. Account Management:
+   - Option to link/unlink social accounts (Google, Facebook).
+   - Subscription details (plan type, renewal date).
+   - Button to upgrade/change subscription plan.
+
+4. Security:
+   - Two-factor authentication toggle.
+   - Recent login activity (list of last 5 logins with date/time + device info).
+
+5. Save & Cancel Buttons:
+   - Styled primary button for "Save Changes".
+   - Secondary button for "Cancel".
+
+Design style:
+- Use Tailwind CSS.
+- Clean, minimal, card-based layout with soft shadows and rounded corners.
+- Responsive for both desktop and mobile.
+
